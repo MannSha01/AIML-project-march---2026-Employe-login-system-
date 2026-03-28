@@ -8,6 +8,8 @@ CURRENT_SECRET_CODE = ""
 tally_of_fails = 0 
 waiting_on_second_enter = False
 
+
+
 def talker_func(what_to_say):
     def _do_it():
         try:
