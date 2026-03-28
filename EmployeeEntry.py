@@ -92,7 +92,8 @@ def Draw_New_Image_Function():
     talker_func("Please type the following code in uppercase only: " + " ".join(CURRENT_SECRET_CODE))
     
 
-# UI 
+# UI creation using tinker 
+
 main_win = tk.Tk()
 main_win.title("CAP Demo - Security Merge")
 main_win.geometry("400x700")
