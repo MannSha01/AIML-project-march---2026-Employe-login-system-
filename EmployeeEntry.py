@@ -53,6 +53,8 @@ def handle_keypress_logic(e):
             
         waiting_on_second_enter = False
 
+
+
 def Draw_New_Image_Function():
     global CURRENT_SECRET_CODE
     width, height = 220, 90
