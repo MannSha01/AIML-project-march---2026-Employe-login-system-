@@ -1,6 +1,8 @@
 from PIL import Image, ImageDraw, ImageFont, ImageTk, ImageFilter
 import random, string, tkinter as tk, pyttsx3, _thread
 
+
+
 v_engine = pyttsx3.init()
 CURRENT_SECRET_CODE = "" 
 tally_of_fails = 0 
