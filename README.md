@@ -1,5 +1,5 @@
-Developed by : Mann Sharma (25BAI10379)
-Univertsity : VIT Bhopal
+- **Developed by : Mann Sharma (25BAI10379)**
+- **Univertsity : VIT Bhopal**
 
 
 # AIML-project ~ Employee Login System
