@@ -18,8 +18,14 @@
 
 
 **Requirements**
-- install pillow before running this code
+**(Libraries requried:)**
+- Pillow → CAPTCHA image generation.
+- pyttsx3 → Text-to-speech engine for voice prompts.
+- Tkinter → GUI framework.
+- random, string, _thread → Logic and threading support.
 - Open cmd prompt and bash pip install pillow
+- Open cmd prompt and bash pip install pyttsx3
+- other linraries are genereally pre installed with python 
 - Python version: 3.8+
 
 
